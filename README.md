@@ -22,4 +22,4 @@ Certi-Gen is a cutting-edge platform designed to effortlessly generate mass cert
 
 3. Certificate Design Consideration: To ensure optimal results, design your template certificate with the name placement in the middle. Certi-Gen utilizes the uploaded template's Width and Height to calculate the origin point and position the names accordingly. It also readjusts font size dynamically to accommodate longer names.
 
-Certi-Gen is the brainchild of [Manav Garg](https://github.com/manavvgarg), bringing innovation and efficiency to certificate generation processes. Experience the convenience and professionalism of Certi-Gen for your event today!
+Design and Developerd by [Manav Garg](https://github.com/manavvgarg), bringing innovation and efficiency to certificate generation processes. Experience the convenience and professionalism of Certi-Gen for your event today!
